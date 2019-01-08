@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>
+
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- WELCOME DIALOG TEXT -->
+        <property name="WELCOME_DIALOG_TITLE"               value="nuqneH mIw'e' rep"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="recent Qap"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="rep mIw'e' chu' chenmoH"></property>
+
+        <!-- GENERIC APP ERROR MESSAGES -->
+        <property name="APP_ERROR_TITLE"            value="application Qagh"></property>
+        <property name="APP_ERROR_CONTENT"          value="Qagh occured neH Application"></property>
+
+        <!-- PROPERTIES ERROR MESSAGES -->
+        <property name="PROPERTIES_ERROR_TITLE"     value="bang teywI' Qagh"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="tu'lu' Qagh Loading bang teywI'"></property>
+
+        <!-- FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_BUTTON_TOOLTIP"         value="rep mIw'e' chu'"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="load mIw'e' rep"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="SoQ mIw'e' rep"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="mIw'e' rep toD"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="export mIw'e' rep"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="mej"></property>
+
+        <!-- CLIPBOARD TOOLBAR TOOLTIPS -->
+        <property name="CUT_BUTTON_TOOLTIP"         value="chIp"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="copy"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="paste"></property>
+
+        <!-- UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Ha'"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="redo"></property>
+
+        <!-- HELP TOOLBAR TOOLTIPS -->
+        <property name="HELP_BUTTON_TOOLTIP"        value="QaH"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="choH langauge"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="umqu' ghot"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="chu' naQ"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Qap chenmoH 'ach wej toD"></property>
+        <property name="NEW_ERROR_TITLE"        value="ghuHmoH: Qagh"></property>
+        <property name="NEW_ERROR_CONTENT"      value="chenmoH chu' Qap qaS Qagh."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Qap load"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="load naQmoH wanI'mey"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="chaq Loaded Successfully 'ej laH DaH edited teywI'."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Qagh loading"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="luj loading. ghaytan pa' qay' teywI' Formating."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Qap toD"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="toD naQmoH wanI'mey"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_TITLE"       value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_CONTENT"     value="luj saving. ghaytan muHIvtaHbogh teywI' naw' qay''a'."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="toD, unsave vum?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="unsave Qu'lIj toD wa'DIch rur SoH?"></property>
+
+        <!-- ABOUT DIALOG -->
+        <property name="ABOUT_TITLE"            value="vIHtaHbogh majQa'"></property>
+        <property name="ABOUT_CONTENT"          value="CSG, the Course Site Generator - Debugging Enterprises - © 2018"></property>
+
+
+        <!-- ENGLISH LANGUAGE SETTINGS SPECIFICALLY FOR TDLM CONTROLS -->
+
+        <!-- LANGUAGE-DEPENDENT TEXT FOR CSG WORKSPACE CONTROLS -->
+        <property name="CSG_SITE_TEXT"                       value="Daq"></property>
+        <property name="CSG_SYLLABUS_TEXT"                   value="sylbus"></property>
+        <property name="CSG_MEETING_TIMES_TEXT"              value="qep poH"></property>
+        <property name="CSG_OFFICE_HOURS_TEXT"               value="ofice rep"></property>
+        <property name="CSG_SCHEDULE_TEXT"                   value="sdule"></property>
+
+        <!-- LANGUAGE-DEPENDENT TEXT FOR CSG WORKSPACE CONTROLS -->
+        <!-- CONTROLS RELATED TO SITE PANE-->
+        
+        <property name="CSG_BANNER_LABEL_TEXT"                               value="vner"></property>
+        <property name="CSG_SUBJECT_LABEL_TEXT"                              value="sbect:"></property>
+        <property name="CSG_NUMBER_LABEL_TEXT"                               value="mI':"></property>
+        <property name="CSG_SEMESTER_LABEL_TEXT"                             value="smest:"></property>
+        <property name="CSG_YEAR_LABEL_TEXT"                                 value="DIS:"></property>
+        <property name="CSG_SITE_TITLE_LABEL_TEXT"                           value="ttl:"></property>
+        <property name="CSG_EXPORT_DIR_LABEL_TEXT"                           value="Expt Dr:"></property>
+        <property name="CSG_PAGES_LABEL_TEXT"                                value="Pgs:"></property>
+        <property name="CSG_HOME_CHECK_BOX_TEXT"                             value="hme:"></property>
+        <property name="CSG_SYLLABUS_CHECK_BOX_TEXT"                         value="sylbus"></property>
+        <property name="CSG_SCHEDULE_CHECK_BOX_TEXT"                         value="sdule"></property>
+        <property name="CSG_HWS_CHECK_BOX_TEXT"                              value="hw"></property>
+        <property name="CSG_FALL_TEXT"                                       value="lu"></property>
+        <property name="CSG_SPRING_TEXT"                                     value="wepDaj"></property>
+        <property name="CSG_WINTER_TEXT"                                     value="winter"></property>
+        <property name="CSG_SUMMER_TEXT"                                     value="poH tuj bI'reS"></property>
+        <property name="CSG_STYLE_LABEL_TEXT"                                value="stl"></property>
+        <property name="CSG_FAVICON_BUTTON_TEXT"                             value="Fcon:"></property>
+        <property name="CSG_NAVBAR_BUTTON_TEXT"                              value="navbar ghItlhvam:"></property>
+        <property name="CSG_LEFT_FOOTER_BUTTON_TEXT"                         value="mej Footer ghItlhvam:"></property>
+        <property name="CSG_RIGHT_FOOTER_BUTTON_TEXT"                        value="lugh Footer ghItlhvam:"></property>
+        <property name="CSG_FONTS_AND_COLORS_STYLE_SHEET_LABEL_TEXT"         value="font colors 'ej style jan'e':"></property>
+        <property name="CSG_INSTRUCTOR_LABEL_TEXT"                           value="Istrctrad"></property>
+
+        <property name="CSG_INSTRUCTOR_NAME_LABEL_TEXT"                      value="pong:"></property>
+        <property name="CSG_INSTRUCTOR_ROOM_LABEL_TEXT"                      value="pa'Daq:"></property>
+        <property name="CSG_INSTRUCTOR_EMAIL_LABEL_TEXT"                     value="Eal:"></property>
+        <property name="CSG_HOME_PAGE_LABEL_TEXT"                            value="juH page:"></property>
+        <property name="CSG_OFFICE_HOURS_BUTTON_TEXT"                        value="+"></property>
+        <property name="CSG_OFFICE_HOURS_LABEL_TEXT"                         value="mIw'e' rep"></property>
+        
+        <!-- CONTROLS RELATED TO SYLLABUS PANE-->
+        <property name="CSG_DESCRIPTION_LABEL_TEXT"          value="Dscion:"></property>
+        <property name="CSG_TOPICS_LABEL_TEXT"               value="Tps:"></property>
+        <property name="CSG_PREREQUISITES_LABEL_TEXT"        value="Prisites:"></property>
+        <property name="CSG_OUTCOMES_LABEL_TEXT"             value="Outes:"></property>
+        <property name="CSG_TEXTBOOKS_LABEL_TEXT"            value="Tboks:"></property>
+        <property name="CSG_GRADED_COMPONENTS_LABEL_TEXT"    value="grade 'ay':"></property>
+        <property name="CSG_GRADING_NOTE_LABEL_TEXT"         value="note grag:"></property>
+        <property name="CSG_ACADEMIC_DISHONESTY_LABEL_TEXT"  value="acmic disesty:"></property>
+        <property name="CSG_SPECIAL_ASSISTANCE_LABEL_TEXT"   value="le' boQ:"></property>
+        
+        <!-- CONTROLS RELATED MEETING TIMES PANE -->
+        <property name="CSG_LECTURES_PLUS_BUTTON_TEXT"              value="+"></property>
+        <property name="CSG_LECTURES_MINUS_BUTTON_TEXT"             value="-"></property>
+        <property name="CSG_LECTURES_LABEL_TEXT"                    value="SoQ"></property>
+        <property name="CSG_SECTION_COLUMN_TEXT"                    value="'ay'"></property>
+        <property name="CSG_DAYS_COLUMN_TEXT"                       value="jaj"></property>
+        <property name="CSG_TIME_COLUMN_TEXT"                       value="poH"></property>
+        <property name="CSG_ROOM_COLUMN_TEXT"                       value="pa'Daq"></property>
+        <property name="CSG_RECITATIONS_LABEL_TEXT"                 value="Rtaons"></property>
+        <property name="CSG_RECITATIONS_PLUS_BUTTON_TEXT"           value="+"></property>
+        <property name="CSG_RECITATIONS_MINUS_BUTTON_TEXT"          value="-"></property>
+        <property name="CSG_RECITATIONS_SECTION_COLUMN_TEXT"        value="'ay'"></property>
+        <property name="CSG_RECITATIONS_ROOM_COLUMN_TEXT"           value="pa'Daq"></property>
+        <property name="CSG_RECITATIONS_DAYS_AND_TIMES_COLUMN_TEXT" value="je poH je"></property>
+        <property name="CSG_RECITATIONS_TA1_COLUMN_TEXT"            value="TeeAye1"></property>
+        <property name="CSG_RECITATIONS_TA2_COLUMN_TEXT"            value="TeeAye2"></property>
+        <property name="CSG_LABS_LABEL_TEXT"                        value="Lb"></property>
+        <property name="CSG_LABS_PLUS_BUTTON_TEXT"                  value="+"></property>
+        <property name="CSG_LABS_MINUS_BUTTON_TEXT"                 value="-"></property>
+        <property name="CSG_LABS_SECTION_COLUMN_TEXT"               value="'ay'"></property>
+        <property name="CSG_LABS_ROOM_COLUMN_TEXT"                  value="pa'Daq"></property>
+        <property name="CSG_LABS_DAYS_AND_TIMES_COLUMN_TEXT"        value="je poH je"></property>
+        <property name="CSG_LABS_TA1_COLUMN_TEXT"                   value="TeeAye1"></property>
+        <property name="CSG_LABS_TA2_COLUMN_TEXT"                   value="TeeAye2"></property>
+        
+        <!-- CONTROLS RELATED TO OFFICE HOURS PANE-->
+        <property name="CSG_TAS_HEADER_LABEL_TEXT"           value="paQDI'norgh boQwI'"></property>
+        <property name="CSG_NAME_TEXT_FIELD_PROMPT_TEXT"        value="pong"></property>
+        <property name="CSG_EMAIL_TEXT_FIELD_PROMPT_TEXT"           value="eal"></property>
+        <property name="CSG_ADD_TA_BUTTON_TEXT"              value="CHEL TA"></property>
+        <property name="CSG_OFFICE_HOURS_HEADER_LABEL_TEXT"  value="mIw'e' rep"></property>
+        <property name="CSG_NAME_TABLE_COLUMN_TEXT"          value="pong"></property>
+        <property name="CSG_EMAIL_TABLE_COLUMN_TEXT"         value="eal"></property>
+        <property name="CSG_SLOTS_TABLE_COLUMN_TEXT"         value="poH Slots"></property>
+        <property name="CSG_START_TIME_TABLE_COLUMN_TEXT"    value="strt poH"></property>
+        <property name="CSG_END_TIME_TABLE_COLUMN_TEXT"      value="'o'megh poH"></property>
+        <property name="CSG_MONDAY_TABLE_COLUMN_TEXT"        value="mday"></property>
+        <property name="CSG_TUESDAY_TABLE_COLUMN_TEXT"       value="tday"></property>
+        <property name="CSG_WEDNESDAY_TABLE_COLUMN_TEXT"     value="wday"></property>
+        <property name="CSG_THURSDAY_TABLE_COLUMN_TEXT"      value="thday"></property>
+        <property name="CSG_FRIDAY_TABLE_COLUMN_TEXT"        value="fday"></property>
+        <property name="CSG_START_TIME_LABEL_TEXT"           value="poH strt"></property>
+        <property name="CSG_END_TIME_LABEL_TEXT"             value="poH ed"></property>
+        <property name="CSG_TA_DIALOG_NAME_LABEL_TEXT"            value="pong:"></property>
+        <property name="CSG_TA_DIALOG_EMAIL_LABEL_TEXT"           value="Eal:"></property>
+        <property name="CSG_GRADUATE_DIALOG_LABEL_TEXT"           value="Gte"></property>
+        <property name="CSG_UNDERGRADUATE_DIALOG_LABEL_TEXT"           value="Unduate"></property>
+        
+        <!-- CONTROLS RELATED TO SCHEDULE PANE-->
+        <property name="CSG_CALANDAR_BOUNDARIES_LABEL_TEXT"        value="calandar veH"></property>
+        <property name="CSG_STARTING_MONDAY_LABEL_TEXT"            value="Strt Mday:"></property>
+        <property name="CSG_CALANDAR_BOUNDARIES_LABEL_TEXT"        value="calandar veH"></property>
+        <property name="CSG_ENDING_FRIDAY_LABEL_TEXT"              value="Eng Fday: "></property>
+        <property name="CSG_SCHEDULE_ITEMS_BUTTON_TEXT"            value="-"></property>
+        <property name="CSG_SCHEDULE_ITEMS_LABEL_TEXT"             value="Sche Itm"></property>
+        <property name="CSG_ADD_EDIT_LABEL_TEXT"                   value="chel ghap Edt"></property>
+        <property name="CSG_SCHEDULE_TYPE_COLUMN_TEXT"             value="Segh"></property>
+        <property name="CSG_SCHEDULE_DATE_COLUMN_TEXT"             value="Dt"></property>
+        <property name="CSG_SCHEDULE_TITLE_COLUMN_TEXT"            value="Tte"></property>
+        <property name="CSG_SCHEDULE_TOPIC_COLUMN_TEXT"            value="Tpc"></property>
+        <property name="CSG_SCHEDULE_TYPE_LABEL_TEXT"                       value="Segh:"></property>
+        <property name="CSG_SCHEDULE_DATE_LABEL_TEXT"                       value="dte:"></property>
+        <property name="CSG_SCHEDULE_TITLE_LABEL_TEXT"                      value="Tte:"></property>
+        <property name="CSG_SCHEDULE_TOPIC_LABEL_TEXT"                      value="tpic:"></property>
+        <property name="CSG_SCHEDULE_LINK_LABEL_TEXT"                       value="lik:"></property>
+        <property name="CSG_SCHEDULE_ADD_UPDATE_BUTTON_TEXT"                value="chel ghap Update"></property>
+        <property name="CSG_SCHEDULE_CLEAR_BUTTON_TEXT"                            value="Huv"></property>
+        <property name="CSG_HOLIDAY_TEXT"                          value="QI'lop"></property>
+        <property name="CSG_LECTURE_TEXT"                          value="reading"></property>
+        <property name="CSG_RECITATION_TEXT"                       value="Retatn"></property>
+        <property name="CSG_LAB_TEXT"                              value="Lb"></property>
+        <property name="CSG_HW_TEXT"                               value="HoWa"></property>
+        <property name="CSG_EXAM_TEXT"                             value="Exm"></property>
+        <property name="CSG_QUIZ_TEXT"                             value="'a pagh nov"></property>
+        
+        <!-- ERROR DIALOG -->
+        <property name="CSG_NO_TA_SELECTED_TITLE"        value="pagh ta wIv"></property>
+        <property name="CSG_NO_TA_SELECTED_CONTENT"      value="qIt neH toggle vaj wIv ta"></property>
+
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="app Hol Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Hol wutlh"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="[Hol User Interface. ghaHDaq wIv BERNARDO."></property>
+
+        <property name="WORK_FILE_EXT"          value="*.json"></property>
+	<property name="WORK_FILE_EXT_DESC"     value="JSON Files'"></property>
+
+    </property_list>
+    
+    <!-- TDLM COMBO BOX CHOICES -->
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English Hol</option>
+            <option>tlhIngan</option>
+        </property_options>
+    </property_options_list>
+</properties>
